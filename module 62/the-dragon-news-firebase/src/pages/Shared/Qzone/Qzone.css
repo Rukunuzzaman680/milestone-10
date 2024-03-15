@@ -1,0 +1,14 @@
+.lower-part {
+  background-image: url(../../../assets/bg.png);
+  width: 305px;
+  height: 509px;
+}
+.heading-text {
+  padding-top: 70px;
+}
+.p {
+  margin-top: 20px;
+}
+.button {
+  margin-top: 40px;
+}
